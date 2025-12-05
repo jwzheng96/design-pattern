@@ -1,0 +1,34 @@
+# Compiled files
+*.o
+*.exe
+*.out
+*.class
+*.pyc
+__pycache__/
+*.pyo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build directories
+build/
+dist/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+.env
+
+# Test coverage
+.coverage
+htmlcov/
+
